@@ -31,3 +31,6 @@ HTML: Structure of the webpage.
 CSS: Styling for a modern and responsive design.
 
 JavaScript: Core logic for password generation and clipboard functionality
+
+
+![2025-01-1612-43-38-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/969dc2e5-9033-46d7-9b38-fb40c544b140)
